@@ -2,8 +2,6 @@
 
 #### Describe the tasks that support this PR
 
-#### Outline the changes made to the existing functionality if any
-
 #### Select the test categories recorded for this feature / fix
 
 - [ ] unit tests
@@ -16,14 +14,10 @@
 
 `Development Environment setup`
 
-- clone the repository and run `cd e-ducate-api` to change to the project directory
-- run `yarn` command to install all the necessary dependencies and build the application
-- run `yarn start` or `yarn run dev` command to run the application
+- clone the repository and run `cd posteD` to change to the project directory
+- run `npm install` command to install all the necessary dependencies and build the application
+- run `npm run start` or `npm run dev` command to run the application
 
 `Test Environment setup`
 
-- run `yarn test` command to run all tests
-
-#### Add background context if any
-
-#### Tickets/Stories related to this PR
+- run `npm test` command to run all tests
